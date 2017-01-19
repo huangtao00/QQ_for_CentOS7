@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+X-Created-By=Deepin WINE Team
+Categories=chat;
+Icon=deepin.com.qq.im.png
+Exec="/opt/deepinwine/apps/Deepin-QQ/run.sh" %u
+Name=Tencent QQ Client
+Name[zh_CN]=QQ
+Comment=Tencent QQ Client on CrossOver Deepin
+StartupWMClass=QQ.exe
