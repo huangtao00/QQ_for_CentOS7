@@ -2,10 +2,10 @@
 
 ### 2:安装方法:
 ```
-安装:
+#安装:
 sudo bash install.sh
 /opt/deepinwine/apps/Deepin-QQ/run.sh -r
-运行QQ:
+#运行QQ:
 /opt/deepinwine/apps/Deepin-QQ/run.sh 
 
 ```
